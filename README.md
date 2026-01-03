@@ -55,18 +55,7 @@ Happy-Delivery/
 │   │   ├── utils/        # Utility functions
 │   │   └── App.jsx       # Main app component
 │   └── package.json
-├── backend/              # Express server
-│   ├── routes/          # API routes
-│   ├── controllers/     # Route controllers
-│   ├── services/        # Business logic
-│   ├── socket/          # Socket.io handlers
-│   ├── middleware/      # Custom middleware
-│   └── server.js        # Entry point
-├── database/            # Database schema
-│   └── schema.sql       # PostgreSQL schema
-├── README.md
-├── workflow.md
-└── architecture.md
+└── README.md
 ```
 
 ## Setup Instructions
